@@ -1,0 +1,17 @@
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  name: secure-operator-account
+  namespace: secure-space
+  
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  name: devops-account
+  namespace: cluster-space
+  
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  name: developer-account
+  namespace: cluster-space

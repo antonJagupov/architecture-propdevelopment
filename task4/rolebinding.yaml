@@ -1,0 +1,55 @@
+apiVersion: rbac.authorization.k8s.io/v1
+kind: RoleBinding
+metadata:
+  name: secret-reader-bind
+  namespace: secure-space
+subjects:
+- kind: ServiceAccount
+  name: secure-operator-account
+  namespace: secure-space
+roleRef:
+  kind: Role
+  name: secret-reader
+  apiGroup: rbac.authorization.k8s.io
+  
+apiVersion: rbac.authorization.k8s.io/v1
+kind: RoleBinding
+metadata:
+  name: secret-writer-bind
+  namespace: secure-space
+subjects:
+- kind: ServiceAccount
+  name: devops-account
+  namespace: secure-space
+roleRef:
+  kind: Role
+  name: secret-writer
+  apiGroup: rbac.authorization.k8s.io
+  
+apiVersion: rbac.authorization.k8s.io/v1
+kind: RoleBinding
+metadata:
+  name: cluster-reader-bind
+  namespace: cluster-space
+subjects:
+- kind: ServiceAccount
+  name: developer-account
+  namespace: cluster-space
+roleRef:
+  kind: Role
+  name: cluster-reader
+  apiGroup: rbac.authorization.k8s.io  
+  
+apiVersion: rbac.authorization.k8s.io/v1
+kind: RoleBinding
+metadata:
+  name: devops-role-bind
+  namespace: cluster-space
+subjects:
+- kind: ServiceAccount
+  name: devops-account
+  namespace: cluster-space
+roleRef:
+  kind: Role
+  name: devops-role
+  apiGroup: rbac.authorization.k8s.io
