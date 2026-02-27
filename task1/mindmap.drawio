@@ -1,0 +1,334 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3">
+  <diagram name="Страница-1" id="RFAaoxTfWYCrEIsajWm4">
+    <mxGraphModel dx="2253" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-1" value="Безопасность данных" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="630" y="140" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-2" value="&lt;span style=&quot;color: rgb(214, 214, 214); font-family: &amp;quot;YS Text&amp;quot;, sans-serif; font-size: 18px; text-align: start; white-space-collapse: preserve-breaks; background-color: rgb(32, 33, 36);&quot;&gt;публичные данные&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-3" value="&lt;span style=&quot;color: rgb(214, 214, 214); font-family: &amp;quot;YS Text&amp;quot;, sans-serif; font-size: 18px; text-align: start; white-space-collapse: preserve-breaks; background-color: rgb(32, 33, 36);&quot;&gt;внутренние данные&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-4" value="&lt;span style=&quot;color: rgb(214, 214, 214); font-family: &amp;quot;YS Text&amp;quot;, sans-serif; font-size: 18px; text-align: start; white-space-collapse: preserve-breaks; background-color: rgb(32, 33, 36);&quot;&gt;секретные данные&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-5" value="&lt;span style=&quot;color: rgb(214, 214, 214); font-family: &amp;quot;YS Text&amp;quot;, sans-serif; font-size: 18px; text-align: start; white-space-collapse: preserve-breaks; background-color: rgb(32, 33, 36);&quot;&gt;конфиденциальные данные&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="270" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-6" value="Информация о недвижимости на витрине продаж" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-7" value="Данные о клиентах, не персональные" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-8" value="Персональные данные клиентов" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="360" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-9" value="Персональные данные собственников" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1101" y="360" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-10" value="Данные о собственниках, не персональные" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-11" value="Данные для проведения онлайн-тура" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-123" y="350" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-12" value="Данные об оплате ЖКУ" style="rounded=1;whiteSpace=wrap;html=1;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-13" value="Данные о сделках" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-14" value="Коммерческие данные" style="rounded=1;whiteSpace=wrap;html=1;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-17" value="Искажение данных: значительный" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-413" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-18" value="Могут изменить условия и цены недвижимости, и попробовать купить дешевле&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-413" y="510" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-19" value="Потеря данных:&lt;div&gt;значительный&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-123" y="430" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-20" value="Добравшись до хранилища видеообзоров конкуренты могут удалить данные, или перенести на свои носители и предложить вернуть за деньги" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-123" y="510" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-21" value="Потеря данных:&lt;div&gt;значительный&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-273" y="430" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-22" value="Добравшись до хранилища конкуренты могут удалить данные, или перенести на свои носители и предложить вернуть за деньги" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-273" y="510" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-23" value="Потеря данных:&lt;div&gt;значительный&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="67" y="430" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-24" value="Добравшись до хранилища видеообзоров конкуренты могут удалить данные, или перенести на свои носители и предложить вернуть за деньги" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="67" y="510" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-25" value="Утечка данных:&lt;div&gt;незначительный&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="217" y="430" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-26" value="Данные могут собрать, но какой-либо пользы они не принесут" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="217" y="510" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-27" value="Потеря данных:&lt;div&gt;значительный&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="430" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-28" value="Добравшись до хранилища конкуренты могут удалить данные, или перенести на свои носители и предложить вернуть за деньги" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="510" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-29" value="Утечка данных:&lt;div&gt;незначительный&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="430" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-30" value="Данные могут собрать, но какой-либо пользы они не принесут" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="510" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-31" value="Потеря данных:&lt;div&gt;значительный&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="435" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-32" value="Добравшись до хранилища конкуренты могут удалить данные, или перенести на свои носители и предложить вернуть за деньги" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="515" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-33" value="Утечка данных:&lt;div&gt;критический&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="435" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-34" value="Персональные данные могут быть использованы, а если будет обнародовани источних этих данных, то компания понесет репутационные и финансовые потери" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="515" width="130" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-35" value="Потеря данных:&lt;div&gt;значительный&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="435" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-36" value="Добравшись до хранилища конкуренты могут удалить данные, или перенести на свои носители и предложить вернуть за деньги" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="515" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-37" value="Утечка данных:&lt;div&gt;критический&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="435" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-38" value="Персональные данные могут быть использованы, а если будет обнародовани источних этих данных, то компания понесет репутационные и финансовые потери" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="515" width="130" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-40" value="Потеря данных:&lt;div&gt;значительный&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="440" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-41" value="Добравшись до хранилища конкуренты могут удалить данные, или перенести на свои носители и предложить вернуть за деньги" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="520" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-42" value="Утечка данных:&lt;div&gt;критический&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="440" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-44" value="Потеря данных:&lt;div&gt;значительный&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="435" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-45" value="Добравшись до хранилища конкуренты могут удалить данные, или перенести на свои носители и предложить вернуть за деньги" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="515" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-46" value="Утечка данных:&lt;div&gt;критический&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1804" y="435" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-48" value="Финансовые данные могут быть использованы, а если будет обнародовани источних этих данных, то компания понесет репутационные и финансовые потери" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="520" width="130" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-49" value="Финансовые данные могут быть использованы, а если будет обнародовани источних этих данных, то компания понесет репутационные и финансовые потери" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1804" y="515" width="130" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-50" value="Потеря данных:&lt;div&gt;значительный&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="440" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-51" value="Добравшись до хранилища конкуренты могут удалить данные, или перенести на свои носители и предложить вернуть за деньги" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="520" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-52" value="Утечка данных:&lt;div&gt;критический&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="440" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-53" value="Финансовые данные могут быть использованы, а если будет обнародовани источних этих данных, то компания понесет репутационные и финансовые потери" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="520" width="130" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="AGfpbopuRJYMBzVMD7jk-1" target="AGfpbopuRJYMBzVMD7jk-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="170" as="sourcePoint" />
+            <mxPoint x="330" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.45;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AGfpbopuRJYMBzVMD7jk-1" target="AGfpbopuRJYMBzVMD7jk-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1090" y="460" as="sourcePoint" />
+            <mxPoint x="2170" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-58" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AGfpbopuRJYMBzVMD7jk-1" target="AGfpbopuRJYMBzVMD7jk-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="460" as="sourcePoint" />
+            <mxPoint x="460" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-59" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.463;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AGfpbopuRJYMBzVMD7jk-1" target="AGfpbopuRJYMBzVMD7jk-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="460" as="sourcePoint" />
+            <mxPoint x="900" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-61" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AGfpbopuRJYMBzVMD7jk-10" target="AGfpbopuRJYMBzVMD7jk-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="460" as="sourcePoint" />
+            <mxPoint x="280" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-62" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AGfpbopuRJYMBzVMD7jk-5" target="AGfpbopuRJYMBzVMD7jk-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="460" as="sourcePoint" />
+            <mxPoint x="1560" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AGfpbopuRJYMBzVMD7jk-5" target="AGfpbopuRJYMBzVMD7jk-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="460" as="sourcePoint" />
+            <mxPoint x="280" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-64" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="AGfpbopuRJYMBzVMD7jk-5" target="AGfpbopuRJYMBzVMD7jk-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="460" as="sourcePoint" />
+            <mxPoint x="280" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-65" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="AGfpbopuRJYMBzVMD7jk-5" target="AGfpbopuRJYMBzVMD7jk-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="460" as="sourcePoint" />
+            <mxPoint x="280" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-66" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.7;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="AGfpbopuRJYMBzVMD7jk-3" target="AGfpbopuRJYMBzVMD7jk-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="460" as="sourcePoint" />
+            <mxPoint x="280" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AGfpbopuRJYMBzVMD7jk-3" target="AGfpbopuRJYMBzVMD7jk-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="460" as="sourcePoint" />
+            <mxPoint x="280" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-68" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AGfpbopuRJYMBzVMD7jk-2" target="AGfpbopuRJYMBzVMD7jk-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="460" as="sourcePoint" />
+            <mxPoint x="280" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-69" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AGfpbopuRJYMBzVMD7jk-2" target="AGfpbopuRJYMBzVMD7jk-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="460" as="sourcePoint" />
+            <mxPoint x="280" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-71" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AGfpbopuRJYMBzVMD7jk-4" target="AGfpbopuRJYMBzVMD7jk-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1750" y="460" as="sourcePoint" />
+            <mxPoint x="1800" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AGfpbopuRJYMBzVMD7jk-14" target="AGfpbopuRJYMBzVMD7jk-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1750" y="460" as="sourcePoint" />
+            <mxPoint x="1800" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-73" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.331;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AGfpbopuRJYMBzVMD7jk-14" target="AGfpbopuRJYMBzVMD7jk-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1750" y="460" as="sourcePoint" />
+            <mxPoint x="1800" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-74" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AGfpbopuRJYMBzVMD7jk-8" target="AGfpbopuRJYMBzVMD7jk-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1290" y="460" as="sourcePoint" />
+            <mxPoint x="1340" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-75" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AGfpbopuRJYMBzVMD7jk-8" target="AGfpbopuRJYMBzVMD7jk-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1290" y="460" as="sourcePoint" />
+            <mxPoint x="1340" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-76" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AGfpbopuRJYMBzVMD7jk-9" target="AGfpbopuRJYMBzVMD7jk-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1290" y="460" as="sourcePoint" />
+            <mxPoint x="1090" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-77" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.7;exitY=0.983;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="AGfpbopuRJYMBzVMD7jk-9" target="AGfpbopuRJYMBzVMD7jk-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1290" y="460" as="sourcePoint" />
+            <mxPoint x="1340" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-78" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AGfpbopuRJYMBzVMD7jk-13" target="AGfpbopuRJYMBzVMD7jk-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1290" y="460" as="sourcePoint" />
+            <mxPoint x="1340" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-79" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.658;exitY=0.933;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="AGfpbopuRJYMBzVMD7jk-13" target="AGfpbopuRJYMBzVMD7jk-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1290" y="460" as="sourcePoint" />
+            <mxPoint x="1340" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-80" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AGfpbopuRJYMBzVMD7jk-12" target="AGfpbopuRJYMBzVMD7jk-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1290" y="460" as="sourcePoint" />
+            <mxPoint x="1340" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-81" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AGfpbopuRJYMBzVMD7jk-12" target="AGfpbopuRJYMBzVMD7jk-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1290" y="460" as="sourcePoint" />
+            <mxPoint x="1340" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-83" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AGfpbopuRJYMBzVMD7jk-11" target="AGfpbopuRJYMBzVMD7jk-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="480" as="sourcePoint" />
+            <mxPoint x="240" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-84" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AGfpbopuRJYMBzVMD7jk-6" target="AGfpbopuRJYMBzVMD7jk-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="480" as="sourcePoint" />
+            <mxPoint x="240" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-85" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AGfpbopuRJYMBzVMD7jk-6" target="AGfpbopuRJYMBzVMD7jk-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="480" as="sourcePoint" />
+            <mxPoint x="240" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-86" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AGfpbopuRJYMBzVMD7jk-7" target="AGfpbopuRJYMBzVMD7jk-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="480" as="sourcePoint" />
+            <mxPoint x="240" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-87" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AGfpbopuRJYMBzVMD7jk-7" target="AGfpbopuRJYMBzVMD7jk-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="480" as="sourcePoint" />
+            <mxPoint x="240" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGfpbopuRJYMBzVMD7jk-88" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AGfpbopuRJYMBzVMD7jk-10" target="AGfpbopuRJYMBzVMD7jk-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="480" as="sourcePoint" />
+            <mxPoint x="240" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
